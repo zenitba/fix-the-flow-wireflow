@@ -181,7 +181,7 @@ color: #72AEA6;
     font-size: 30px;
     font-weight: bolder;
 } 
- h4{
+ h2{
     color: var(--blue);
     font-weight: 900;
 }
@@ -213,7 +213,7 @@ footer p{
         width: 80%;
     }
     .bg-title{
-       font-size: 10px;
+       font-size: 1rem;
        position: absolute;
        top: 50%;
        left: 50%;
@@ -229,7 +229,7 @@ footer p{
      
 @media(max-width:1250px){
     .logo{
-        position: center;
+        width: 150px;
     }
  }
    @media(max-width:550px){
@@ -240,7 +240,10 @@ footer p{
        }
        #blog{
            padding:20px;
-       }
+     }
+       .footer-ul{
+        font-size: 15px ;
+    }
    }
 
     
