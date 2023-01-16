@@ -93,26 +93,7 @@ color: #72AEA6;
 .navbar a:hover {
     color: var(--blue);
  }
-    /* img frontpage */   
-.bg-img {
-    background-image: url("assets/bg.png");
-    height: 85%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
- }
-      
- .bg-title {
-    color: var(--white);
-    font-size: 3.8rem;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80%;
-    padding: 10px;
-    text-align: center;
- }
+ 
   /* Blog */
 * {
     box-sizing: border-box;
