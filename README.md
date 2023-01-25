@@ -1,21 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+## User Story👩🏾‍💻
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
-
-## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
-
-## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+Userstory: Als ouder wil ik bij het openen van Mijn Vini Mini persoonlijk advies behorende bij de betreffende dag kunnen lezen, zodat de kans op een allergische reactie bij mijn kind kleiner wordt.
 
 ## Wireflow
-<!-- Toon de wireflow -->
-
- 
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
